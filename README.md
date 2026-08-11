@@ -19,7 +19,7 @@ Uma ferramenta simples em Python para visualizar a estrutura completa de pastas 
 git clone https://github.com/seu-usuario/estrutura-projeto.git
 
 # Entre na pasta
-cd estrutura-projeto
+cd project-structure-generator
 
 # Execute structure.py
 python structure.py
@@ -30,4 +30,4 @@ C:\...\...\...
 # Escolha se quer salvar o arquivo em txt
 Sim ou Não
 
-# Escolha o nome do arquivo que irá gerar, caso tenha escolhido "sim" (caso não tenha nome em mente, apenas perte "enter")
+# Escolha o nome do arquivo para salvar. (Caso não tenha nome em mente, apenas aperte "enter")
